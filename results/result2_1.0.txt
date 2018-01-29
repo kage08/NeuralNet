@@ -1,0 +1,3014 @@
+##########################################
+Eta: 0.01
+Gamma: 1.0
+Accuracy: 0.2773359840954274
+Epoch No: 0
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 1
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 2
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 3
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 4
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 5
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.23757455268389663
+0.2773359840954274
+Epoch No: 6
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.23757455268389663
+0.2773359840954274
+Epoch No: 7
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 8
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 9
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 10
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 11
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 12
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 13
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 14
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 15
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 16
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 17
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 18
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 19
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 20
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 21
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 22
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 23
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 24
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 25
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 26
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 27
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 28
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 29
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 30
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 31
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 32
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 33
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 34
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 35
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 36
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 37
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 38
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 39
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 40
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 41
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.23757455268389663
+0.2773359840954274
+Epoch No: 42
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 43
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 44
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 45
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 46
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 47
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 48
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 49
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 50
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 51
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 52
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 53
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 54
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 55
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 56
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 57
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 58
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 59
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 60
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 61
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 62
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 63
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 64
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 65
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 66
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 67
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 68
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 69
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 70
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 71
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 72
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 73
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 74
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 75
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 76
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 77
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 78
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 79
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 80
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 81
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 82
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 83
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 84
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 85
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 86
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 87
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 88
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 89
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 90
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 91
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 92
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 93
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 94
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 95
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 96
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 97
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 98
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 99
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 100
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 101
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 102
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 103
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 104
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 105
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 106
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 107
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 108
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 109
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 110
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 111
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 112
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 113
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 114
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 115
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 116
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 117
+Test Data:
+Accuracy: 0.275
+Train Data
+Accuracy: 0.30318091451292245
+0.2773359840954274
+Epoch No: 118
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 119
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 120
+Test Data:
+Accuracy: 0.35
+Train Data
+Accuracy: 0.3508946322067594
+0.35
+Epoch No: 121
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.35
+Epoch No: 122
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.26043737574552683
+0.35
+Epoch No: 123
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.35
+Epoch No: 124
+Test Data:
+Accuracy: 0.35
+Train Data
+Accuracy: 0.3121272365805169
+0.35
+Epoch No: 125
+Test Data:
+Accuracy: 0.2875
+Train Data
+Accuracy: 0.32703777335984097
+0.35
+Epoch No: 126
+Test Data:
+Accuracy: 0.275
+Train Data
+Accuracy: 0.31809145129224653
+0.35
+Epoch No: 127
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.40556660039761433
+0.4375
+Epoch No: 128
+Test Data:
+Accuracy: 0.3375
+Train Data
+Accuracy: 0.3399602385685885
+0.4375
+Epoch No: 129
+Test Data:
+Accuracy: 0.325
+Train Data
+Accuracy: 0.3081510934393638
+0.4375
+Epoch No: 130
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2614314115308151
+0.4375
+Epoch No: 131
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.40656063618290256
+0.4375
+Epoch No: 132
+Test Data:
+Accuracy: 0.2625
+Train Data
+Accuracy: 0.28727634194831014
+0.4375
+Epoch No: 133
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.4224652087475149
+0.4375
+Epoch No: 134
+Test Data:
+Accuracy: 0.4
+Train Data
+Accuracy: 0.3956262425447316
+0.4375
+Epoch No: 135
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.40656063618290256
+0.4375
+Epoch No: 136
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.41848906560636184
+0.4375
+Epoch No: 137
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.4194831013916501
+0.4375
+Epoch No: 138
+Test Data:
+Accuracy: 0.35
+Train Data
+Accuracy: 0.35984095427435386
+0.4375
+Epoch No: 139
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.40059642147117297
+0.4375
+Epoch No: 140
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.4224652087475149
+0.4375
+Epoch No: 141
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.3866799204771372
+0.4375
+Epoch No: 142
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.40457256461232605
+0.4375
+Epoch No: 143
+Test Data:
+Accuracy: 0.4125
+Train Data
+Accuracy: 0.40357852882703776
+0.4375
+Epoch No: 144
+Test Data:
+Accuracy: 0.4
+Train Data
+Accuracy: 0.3797216699801193
+0.4375
+Epoch No: 145
+Test Data:
+Accuracy: 0.4125
+Train Data
+Accuracy: 0.42445328031809143
+0.4375
+Epoch No: 146
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4115308151093439
+0.4375
+Epoch No: 147
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.4095427435387674
+0.4375
+Epoch No: 148
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.4304174950298211
+0.4375
+Epoch No: 149
+Test Data:
+Accuracy: 0.4125
+Train Data
+Accuracy: 0.40656063618290256
+0.4375
+Epoch No: 150
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.4224652087475149
+0.4375
+Epoch No: 151
+Test Data:
+Accuracy: 0.4125
+Train Data
+Accuracy: 0.40059642147117297
+0.4375
+Epoch No: 152
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.3946322067594433
+0.4375
+Epoch No: 153
+Test Data:
+Accuracy: 0.4
+Train Data
+Accuracy: 0.40059642147117297
+0.4375
+Epoch No: 154
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.3946322067594433
+0.4375
+Epoch No: 155
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.40755467196819084
+0.4375
+Epoch No: 156
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.3976143141153082
+0.4375
+Epoch No: 157
+Test Data:
+Accuracy: 0.4125
+Train Data
+Accuracy: 0.40059642147117297
+0.4375
+Epoch No: 158
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4165009940357853
+0.4375
+Epoch No: 159
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.3996023856858847
+0.4375
+Epoch No: 160
+Test Data:
+Accuracy: 0.3875
+Train Data
+Accuracy: 0.3717693836978131
+0.4375
+Epoch No: 161
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4224652087475149
+0.4375
+Epoch No: 162
+Test Data:
+Accuracy: 0.4125
+Train Data
+Accuracy: 0.3996023856858847
+0.4375
+Epoch No: 163
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.4125248508946322
+0.4375
+Epoch No: 164
+Test Data:
+Accuracy: 0.4125
+Train Data
+Accuracy: 0.40755467196819084
+0.4375
+Epoch No: 165
+Test Data:
+Accuracy: 0.4125
+Train Data
+Accuracy: 0.43538767395626243
+0.4375
+Epoch No: 166
+Test Data:
+Accuracy: 0.4125
+Train Data
+Accuracy: 0.40656063618290256
+0.4375
+Epoch No: 167
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4224652087475149
+0.4375
+Epoch No: 168
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4383697813121272
+0.4375
+Epoch No: 169
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.40656063618290256
+0.4375
+Epoch No: 170
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4234592445328032
+0.4375
+Epoch No: 171
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4254473161033797
+0.4375
+Epoch No: 172
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.4115308151093439
+0.4375
+Epoch No: 173
+Test Data:
+Accuracy: 0.4125
+Train Data
+Accuracy: 0.4095427435387674
+0.4375
+Epoch No: 174
+Test Data:
+Accuracy: 0.4125
+Train Data
+Accuracy: 0.4125248508946322
+0.4375
+Epoch No: 175
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.43141153081510936
+0.4375
+Epoch No: 176
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4254473161033797
+0.4375
+Epoch No: 177
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.4115308151093439
+0.4375
+Epoch No: 178
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4363817097415507
+0.4375
+Epoch No: 179
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.42147117296222664
+0.4375
+Epoch No: 180
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4433399602385686
+0.4375
+Epoch No: 181
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4284294234592445
+0.4375
+Epoch No: 182
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4304174950298211
+0.4375
+Epoch No: 183
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4304174950298211
+0.4375
+Epoch No: 184
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4433399602385686
+0.4375
+Epoch No: 185
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4393638170974155
+0.4375
+Epoch No: 186
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.4165009940357853
+0.4375
+Epoch No: 187
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4234592445328032
+0.45
+Epoch No: 188
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4234592445328032
+0.45
+Epoch No: 189
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.42445328031809143
+0.45
+Epoch No: 190
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.43240556660039764
+0.45
+Epoch No: 191
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43240556660039764
+0.45
+Epoch No: 192
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43141153081510936
+0.45
+Epoch No: 193
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4403578528827038
+0.45
+Epoch No: 194
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4393638170974155
+0.45
+Epoch No: 195
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.4363817097415507
+0.45
+Epoch No: 196
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43339960238568587
+0.45
+Epoch No: 197
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43240556660039764
+0.45
+Epoch No: 198
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4403578528827038
+0.45
+Epoch No: 199
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43339960238568587
+0.45
+Epoch No: 200
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.44930417495029823
+0.45
+Epoch No: 201
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4363817097415507
+0.45
+Epoch No: 202
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.41451292246520877
+0.45
+Epoch No: 203
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43538767395626243
+0.45
+Epoch No: 204
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.44731610337972166
+0.45
+Epoch No: 205
+Test Data:
+Accuracy: 0.4125
+Train Data
+Accuracy: 0.415506958250497
+0.45
+Epoch No: 206
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43339960238568587
+0.45
+Epoch No: 207
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.4423459244532803
+0.45
+Epoch No: 208
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.4393638170974155
+0.45
+Epoch No: 209
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.415506958250497
+0.45
+Epoch No: 210
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43240556660039764
+0.45
+Epoch No: 211
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.42047713717693835
+0.45
+Epoch No: 212
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.42047713717693835
+0.45
+Epoch No: 213
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43240556660039764
+0.45
+Epoch No: 214
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43538767395626243
+0.45
+Epoch No: 215
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43737574552683894
+0.45
+Epoch No: 216
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43339960238568587
+0.45
+Epoch No: 217
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4383697813121272
+0.45
+Epoch No: 218
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.45129224652087474
+0.45
+Epoch No: 219
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43240556660039764
+0.45
+Epoch No: 220
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43339960238568587
+0.45
+Epoch No: 221
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4393638170974155
+0.45
+Epoch No: 222
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.42445328031809143
+0.45
+Epoch No: 223
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4224652087475149
+0.45
+Epoch No: 224
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4234592445328032
+0.45
+Epoch No: 225
+Test Data:
+Accuracy: 0.425
+Train Data
+Accuracy: 0.4234592445328032
+0.45
+Epoch No: 226
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43737574552683894
+0.45
+Epoch No: 227
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43339960238568587
+0.45
+Epoch No: 228
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4304174950298211
+0.45
+Epoch No: 229
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.43538767395626243
+0.45
+Epoch No: 230
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43439363817097415
+0.45
+Epoch No: 231
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4532803180914513
+0.45
+Epoch No: 232
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4393638170974155
+0.45
+Epoch No: 233
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4403578528827038
+0.4625
+Epoch No: 234
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43737574552683894
+0.4625
+Epoch No: 235
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4403578528827038
+0.4625
+Epoch No: 236
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4403578528827038
+0.4625
+Epoch No: 237
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43439363817097415
+0.4625
+Epoch No: 238
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4393638170974155
+0.4625
+Epoch No: 239
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4403578528827038
+0.4625
+Epoch No: 240
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44731610337972166
+0.4625
+Epoch No: 241
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4463220675944334
+0.4625
+Epoch No: 242
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4234592445328032
+0.4625
+Epoch No: 243
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43538767395626243
+0.4625
+Epoch No: 244
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.441351888667992
+0.4625
+Epoch No: 245
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4363817097415507
+0.4625
+Epoch No: 246
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.452286282306163
+0.4625
+Epoch No: 247
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4393638170974155
+0.4625
+Epoch No: 248
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43538767395626243
+0.4625
+Epoch No: 249
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4433399602385686
+0.4625
+Epoch No: 250
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44731610337972166
+0.4625
+Epoch No: 251
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4363817097415507
+0.4625
+Epoch No: 252
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4403578528827038
+0.4625
+Epoch No: 253
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.426441351888668
+0.4625
+Epoch No: 254
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4363817097415507
+0.4625
+Epoch No: 255
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4393638170974155
+0.4625
+Epoch No: 256
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4532803180914513
+0.4625
+Epoch No: 257
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43240556660039764
+0.4625
+Epoch No: 258
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.441351888667992
+0.4625
+Epoch No: 259
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4224652087475149
+0.4625
+Epoch No: 260
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44731610337972166
+0.4625
+Epoch No: 261
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4403578528827038
+0.4625
+Epoch No: 262
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.42147117296222664
+0.4625
+Epoch No: 263
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4393638170974155
+0.4625
+Epoch No: 264
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.441351888667992
+0.4625
+Epoch No: 265
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.441351888667992
+0.4625
+Epoch No: 266
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4542743538767396
+0.4625
+Epoch No: 267
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43141153081510936
+0.4625
+Epoch No: 268
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4383697813121272
+0.4625
+Epoch No: 269
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.43339960238568587
+0.4625
+Epoch No: 270
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4403578528827038
+0.4625
+Epoch No: 271
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.4625
+Epoch No: 272
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4383697813121272
+0.4625
+Epoch No: 273
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.441351888667992
+0.4625
+Epoch No: 274
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.43439363817097415
+0.4625
+Epoch No: 275
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.43737574552683894
+0.4625
+Epoch No: 276
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.4625
+Epoch No: 277
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45029821073558646
+0.4625
+Epoch No: 278
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4294234592445328
+0.4625
+Epoch No: 279
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.4625
+Epoch No: 280
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4562624254473161
+0.4625
+Epoch No: 281
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43737574552683894
+0.4625
+Epoch No: 282
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.441351888667992
+0.4625
+Epoch No: 283
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4393638170974155
+0.4625
+Epoch No: 284
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44930417495029823
+0.4625
+Epoch No: 285
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4125248508946322
+0.4625
+Epoch No: 286
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44731610337972166
+0.4625
+Epoch No: 287
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43339960238568587
+0.4625
+Epoch No: 288
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.40755467196819084
+0.4625
+Epoch No: 289
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43737574552683894
+0.4625
+Epoch No: 290
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43737574552683894
+0.4625
+Epoch No: 291
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4383697813121272
+0.4625
+Epoch No: 292
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44930417495029823
+0.4625
+Epoch No: 293
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.441351888667992
+0.4625
+Epoch No: 294
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.43439363817097415
+0.4625
+Epoch No: 295
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44930417495029823
+0.4625
+Epoch No: 296
+Test Data:
+Accuracy: 0.5
+Train Data
+Accuracy: 0.4125248508946322
+0.5
+Epoch No: 297
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.43737574552683894
+0.5
+Epoch No: 298
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4383697813121272
+0.5
+Epoch No: 299
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44930417495029823
+0.5
+Epoch No: 300
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4393638170974155
+0.5
+Epoch No: 301
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4403578528827038
+0.5
+Epoch No: 302
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43538767395626243
+0.5
+Epoch No: 303
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.441351888667992
+0.5
+Epoch No: 304
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4403578528827038
+0.5
+Epoch No: 305
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4363817097415507
+0.5
+Epoch No: 306
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 307
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 308
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4403578528827038
+0.5
+Epoch No: 309
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 310
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4363817097415507
+0.5
+Epoch No: 311
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45029821073558646
+0.5
+Epoch No: 312
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4304174950298211
+0.5
+Epoch No: 313
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4403578528827038
+0.5
+Epoch No: 314
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43439363817097415
+0.5
+Epoch No: 315
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.441351888667992
+0.5
+Epoch No: 316
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4463220675944334
+0.5
+Epoch No: 317
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.441351888667992
+0.5
+Epoch No: 318
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45029821073558646
+0.5
+Epoch No: 319
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4383697813121272
+0.5
+Epoch No: 320
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43737574552683894
+0.5
+Epoch No: 321
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.441351888667992
+0.5
+Epoch No: 322
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4562624254473161
+0.5
+Epoch No: 323
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 324
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.43737574552683894
+0.5
+Epoch No: 325
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4562624254473161
+0.5
+Epoch No: 326
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45029821073558646
+0.5
+Epoch No: 327
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44731610337972166
+0.5
+Epoch No: 328
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4423459244532803
+0.5
+Epoch No: 329
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4393638170974155
+0.5
+Epoch No: 330
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43737574552683894
+0.5
+Epoch No: 331
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4423459244532803
+0.5
+Epoch No: 332
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44930417495029823
+0.5
+Epoch No: 333
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4294234592445328
+0.5
+Epoch No: 334
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 335
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45029821073558646
+0.5
+Epoch No: 336
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44930417495029823
+0.5
+Epoch No: 337
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.41848906560636184
+0.5
+Epoch No: 338
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4363817097415507
+0.5
+Epoch No: 339
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 340
+Test Data:
+Accuracy: 0.4875
+Train Data
+Accuracy: 0.4224652087475149
+0.5
+Epoch No: 341
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4383697813121272
+0.5
+Epoch No: 342
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4383697813121272
+0.5
+Epoch No: 343
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4423459244532803
+0.5
+Epoch No: 344
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4383697813121272
+0.5
+Epoch No: 345
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4423459244532803
+0.5
+Epoch No: 346
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45029821073558646
+0.5
+Epoch No: 347
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4403578528827038
+0.5
+Epoch No: 348
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 349
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45029821073558646
+0.5
+Epoch No: 350
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4562624254473161
+0.5
+Epoch No: 351
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45029821073558646
+0.5
+Epoch No: 352
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4423459244532803
+0.5
+Epoch No: 353
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4423459244532803
+0.5
+Epoch No: 354
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 355
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4423459244532803
+0.5
+Epoch No: 356
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.42147117296222664
+0.5
+Epoch No: 357
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4423459244532803
+0.5
+Epoch No: 358
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44831013916500995
+0.5
+Epoch No: 359
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44930417495029823
+0.5
+Epoch No: 360
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 361
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 362
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.426441351888668
+0.5
+Epoch No: 363
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.43240556660039764
+0.5
+Epoch No: 364
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.43439363817097415
+0.5
+Epoch No: 365
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44831013916500995
+0.5
+Epoch No: 366
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 367
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4423459244532803
+0.5
+Epoch No: 368
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4542743538767396
+0.5
+Epoch No: 369
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4532803180914513
+0.5
+Epoch No: 370
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4463220675944334
+0.5
+Epoch No: 371
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4363817097415507
+0.5
+Epoch No: 372
+Test Data:
+Accuracy: 0.475
+Train Data
+Accuracy: 0.4294234592445328
+0.5
+Epoch No: 373
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4423459244532803
+0.5
+Epoch No: 374
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4423459244532803
+0.5
+Epoch No: 375
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4542743538767396
+0.5
+Epoch No: 376
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.43240556660039764
+0.5
+Epoch No: 377
+Test Data:
+Accuracy: 0.5
+Train Data
+Accuracy: 0.441351888667992
+0.5
+Epoch No: 378
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44433399602385687
+0.5
+Epoch No: 379
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4383697813121272
+0.5
+Epoch No: 380
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4542743538767396
+0.5
+Epoch No: 381
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.44433399602385687
+0.5
+Epoch No: 382
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4433399602385686
+0.5
+Epoch No: 383
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4403578528827038
+0.5
+Epoch No: 384
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4393638170974155
+0.5
+Epoch No: 385
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4403578528827038
+0.5
+Epoch No: 386
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4383697813121272
+0.5
+Epoch No: 387
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.45825049701789267
+0.5
+Epoch No: 388
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4542743538767396
+0.5
+Epoch No: 389
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45029821073558646
+0.5
+Epoch No: 390
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4433399602385686
+0.5
+Epoch No: 391
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4383697813121272
+0.5
+Epoch No: 392
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4433399602385686
+0.5
+Epoch No: 393
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 394
+Test Data:
+Accuracy: 0.5
+Train Data
+Accuracy: 0.4363817097415507
+0.5
+Epoch No: 395
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44930417495029823
+0.5
+Epoch No: 396
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45129224652087474
+0.5
+Epoch No: 397
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4433399602385686
+0.5
+Epoch No: 398
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.452286282306163
+0.5
+Epoch No: 399
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4304174950298211
+0.5
+Epoch No: 400
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 401
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.426441351888668
+0.5
+Epoch No: 402
+Test Data:
+Accuracy: 0.5
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 403
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4592445328031809
+0.5
+Epoch No: 404
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4433399602385686
+0.5
+Epoch No: 405
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44930417495029823
+0.5
+Epoch No: 406
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4562624254473161
+0.5
+Epoch No: 407
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4383697813121272
+0.5
+Epoch No: 408
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4542743538767396
+0.5
+Epoch No: 409
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.43737574552683894
+0.5
+Epoch No: 410
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4532803180914513
+0.5
+Epoch No: 411
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4433399602385686
+0.5
+Epoch No: 412
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4363817097415507
+0.5
+Epoch No: 413
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45129224652087474
+0.5
+Epoch No: 414
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4562624254473161
+0.5
+Epoch No: 415
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4383697813121272
+0.5
+Epoch No: 416
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 417
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4532803180914513
+0.5
+Epoch No: 418
+Test Data:
+Accuracy: 0.5
+Train Data
+Accuracy: 0.452286282306163
+0.5
+Epoch No: 419
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45029821073558646
+0.5
+Epoch No: 420
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 421
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4433399602385686
+0.5
+Epoch No: 422
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4532803180914513
+0.5
+Epoch No: 423
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4532803180914513
+0.5
+Epoch No: 424
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.43339960238568587
+0.5
+Epoch No: 425
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45029821073558646
+0.5
+Epoch No: 426
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4423459244532803
+0.5
+Epoch No: 427
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4363817097415507
+0.5
+Epoch No: 428
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4433399602385686
+0.5
+Epoch No: 429
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.44433399602385687
+0.5
+Epoch No: 430
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5
+Epoch No: 431
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4423459244532803
+0.5
+Epoch No: 432
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44930417495029823
+0.5
+Epoch No: 433
+Test Data:
+Accuracy: 0.475
+Train Data
+Accuracy: 0.4552683896620278
+0.5
+Epoch No: 434
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4552683896620278
+0.5
+Epoch No: 435
+Test Data:
+Accuracy: 0.4375
+Train Data
+Accuracy: 0.4284294234592445
+0.5
+Epoch No: 436
+Test Data:
+Accuracy: 0.5
+Train Data
+Accuracy: 0.4572564612326044
+0.5
+Epoch No: 437
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44831013916500995
+0.5
+Epoch No: 438
+Test Data:
+Accuracy: 0.5
+Train Data
+Accuracy: 0.4572564612326044
+0.5
+Epoch No: 439
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4552683896620278
+0.5
+Epoch No: 440
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4552683896620278
+0.5
+Epoch No: 441
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4542743538767396
+0.5
+Epoch No: 442
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4383697813121272
+0.5
+Epoch No: 443
+Test Data:
+Accuracy: 0.5125
+Train Data
+Accuracy: 0.4572564612326044
+0.5125
+Epoch No: 444
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44731610337972166
+0.5125
+Epoch No: 445
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.452286282306163
+0.5125
+Epoch No: 446
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.44731610337972166
+0.5125
+Epoch No: 447
+Test Data:
+Accuracy: 0.5125
+Train Data
+Accuracy: 0.4701789264413519
+0.5125
+Epoch No: 448
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4671968190854871
+0.5125
+Epoch No: 449
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44930417495029823
+0.5125
+Epoch No: 450
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44532803180914515
+0.5125
+Epoch No: 451
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4552683896620278
+0.5125
+Epoch No: 452
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44930417495029823
+0.5125
+Epoch No: 453
+Test Data:
+Accuracy: 0.475
+Train Data
+Accuracy: 0.4562624254473161
+0.5125
+Epoch No: 454
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44831013916500995
+0.5125
+Epoch No: 455
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45129224652087474
+0.5125
+Epoch No: 456
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45129224652087474
+0.5125
+Epoch No: 457
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4552683896620278
+0.5125
+Epoch No: 458
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44731610337972166
+0.5125
+Epoch No: 459
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44731610337972166
+0.5125
+Epoch No: 460
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4383697813121272
+0.5125
+Epoch No: 461
+Test Data:
+Accuracy: 0.525
+Train Data
+Accuracy: 0.46520874751491054
+0.525
+Epoch No: 462
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.452286282306163
+0.525
+Epoch No: 463
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.46123260437375746
+0.525
+Epoch No: 464
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4562624254473161
+0.525
+Epoch No: 465
+Test Data:
+Accuracy: 0.5375
+Train Data
+Accuracy: 0.4801192842942346
+0.5375
+Epoch No: 466
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4552683896620278
+0.5375
+Epoch No: 467
+Test Data:
+Accuracy: 0.475
+Train Data
+Accuracy: 0.45029821073558646
+0.5375
+Epoch No: 468
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4433399602385686
+0.5375
+Epoch No: 469
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45129224652087474
+0.5375
+Epoch No: 470
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44433399602385687
+0.5375
+Epoch No: 471
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4532803180914513
+0.5375
+Epoch No: 472
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4562624254473161
+0.5375
+Epoch No: 473
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4463220675944334
+0.5375
+Epoch No: 474
+Test Data:
+Accuracy: 0.5
+Train Data
+Accuracy: 0.46222664015904574
+0.5375
+Epoch No: 475
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4532803180914513
+0.5375
+Epoch No: 476
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44831013916500995
+0.5375
+Epoch No: 477
+Test Data:
+Accuracy: 0.475
+Train Data
+Accuracy: 0.474155069582505
+0.5375
+Epoch No: 478
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4423459244532803
+0.5375
+Epoch No: 479
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44731610337972166
+0.5375
+Epoch No: 480
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.452286282306163
+0.5375
+Epoch No: 481
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.45129224652087474
+0.5375
+Epoch No: 482
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4662027833001988
+0.5375
+Epoch No: 483
+Test Data:
+Accuracy: 0.525
+Train Data
+Accuracy: 0.47813121272365805
+0.5375
+Epoch No: 484
+Test Data:
+Accuracy: 0.5125
+Train Data
+Accuracy: 0.474155069582505
+0.5375
+Epoch No: 485
+Test Data:
+Accuracy: 0.475
+Train Data
+Accuracy: 0.47912524850894633
+0.5375
+Epoch No: 486
+Test Data:
+Accuracy: 0.45
+Train Data
+Accuracy: 0.4562624254473161
+0.5375
+Epoch No: 487
+Test Data:
+Accuracy: 0.4875
+Train Data
+Accuracy: 0.4711729622266402
+0.5375
+Epoch No: 488
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44831013916500995
+0.5375
+Epoch No: 489
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.452286282306163
+0.5375
+Epoch No: 490
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44831013916500995
+0.5375
+Epoch No: 491
+Test Data:
+Accuracy: 0.475
+Train Data
+Accuracy: 0.4662027833001988
+0.5375
+Epoch No: 492
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4552683896620278
+0.5375
+Epoch No: 493
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.44433399602385687
+0.5375
+Epoch No: 494
+Test Data:
+Accuracy: 0.5125
+Train Data
+Accuracy: 0.47514910536779326
+0.5375
+Epoch No: 495
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4711729622266402
+0.5375
+Epoch No: 496
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.46123260437375746
+0.5375
+Epoch No: 497
+Test Data:
+Accuracy: 0.4625
+Train Data
+Accuracy: 0.4463220675944334
+0.5375
+Epoch No: 498
+Test Data:
+Accuracy: 0.525
+Train Data
+Accuracy: 0.4860834990059642
+0.5375
+Epoch No: 499
+Test Data:
+Accuracy: 0.5
+Train Data
+Accuracy: 0.47912524850894633
+0.5375
+
+******************
+Calculating for maximum accuracy:**************************
+Accuracy: 0.5375 
+Recall: [ 0.65  1.    0.    0.5 ] 
+Precision: [ 0.72222222  0.52631579  0.          0.41666667] 
+F Score: [ 0.68421053  0.68965517  0.          0.45454545]
+Layers descpitions
+Output Layer: [{'weights': [0.17974380926236266, 0.31869238739125821, -0.59154437539858562, -0.30530691071590577, 0.79323775176347333, 0.1257594353245052, 0.50977366762249987, 0.38461368338387741, -0.58905185456757947, 0.29588666695328381, -0.41157050714568105, -0.52152169425692452, 0.058322172540070723, -0.47297929585513498, 0.20315412909728336, 0.33353898081349509, 0.39994279563360147, -0.041279664665742344, 0.33051660664172355, -0.16367744501382922, -0.35525623872487222], 'derivative': 0, 'value': 0.34464289985013918}, {'weights': [-0.2474892570736669, -0.62171414641478573, 0.91114854344100515, 0.60292647535723898, -1.1514915609559431, 0.16488892941643823, -0.60084297162793265, -0.74329646636065183, 0.91734140256045416, -0.66683171980362876, 0.63318317331465102, 0.7550090057879737, 0.28846963634011596, 0.76996846684472919, -0.0624147253838696, -0.73941804742045281, -0.8633550268973903, 0.50669625241097382, -0.49456587972075988, 0.054354774115691319, 0.38031613909917511], 'derivative': 0, 'value': 0.10616878275672778}, {'weights': [-0.037321796994732946, -0.024633289720958389, 0.05292296414574571, -0.017259898325067489, -0.16661080421595928, -0.11155469513396866, -0.12501609556936386, -0.028111980894265674, 0.055886396917853735, -0.0096603962256368615, 0.028465030810598684, 0.044434120047196247, -0.10987872288449736, 0.025151230073460824, -0.086983635714890484, -0.017513088878748469, -0.0047746903636626346, -0.12238959286749863, -0.062493915524933302, 0.044532500697304925, 0.14181929383154879], 'derivative': 0, 'value': 0.18448723045678633}, {'weights': [0.1050690333916918, 0.32765662004511964, -0.37252561506073834, -0.28035729169336937, 0.52486653087117141, -0.17909085378067291, 0.21608639751076364, 0.38679752180442262, -0.3841750016700215, 0.3806071493759936, -0.25007634486172997, -0.27791940651590563, -0.23691127668789744, -0.32213882975614494, -0.05375447618835285, 0.42339375810296087, 0.46818910347467796, -0.34302436732462932, 0.22654390216119699, 0.064792048126358873, -0.13838697093396807], 'derivative': 0, 'value': 0.36470108693634662}]
+Hidden Layer: [[{'weights': [0.036914359073394742, 0.013718228626543379, -0.0056720956621535892, -0.00080419636538185191, 0.022335938450949, 0.019803475632165581, -0.0025571331108228024, -0.0040643352289901598, -0.016851150581903836, -0.019685651450823634, -0.029952164234515816, -0.010973432855748975, -0.0240855951220059, -0.015023462679620967, -0.01053522663143803, -0.033338626265142696, -0.018081393067407751, -0.026223538277563185, -0.026204748601207122, -0.032906945084508428, -0.029653008654436621, -0.0072778940472040575, -0.0051890563964260535, -0.0033409833613252272, 0.0023254482480082133, 0.017504123719762659, 0.028508223862852792, 0.022790073874581387, 0.029458789441433347, 0.0070421948240773427, -0.00042372320999550849, 0.005328969367845742, 0.018790768530273352, -0.0091319738772936542, -0.0043668954271084562, 0.0060891764542226039, 0.0076890053684547767, 0.020099660781388931, 0.019313212062980301, 0.016880210389092213, 0.028985509084308844, 0.027435823736212225, 0.024766257105965514, 0.02460062130913333, 0.0030379389746652942, -0.010797458709989417, -0.0076748865442200663, -0.012319277623952397, -0.023127084118998699, -0.03087045656151037, -0.03928139179750343, -0.034522541278486266, -0.014308584330927465, -0.02180863746656634, -0.011878287174477007, -0.008056135519444188, 0.0043005273300475971, 0.0077422128486705627, 0.014850973286885937, 0.019192320852205444, 0.034477555550614818, -0.013272000689412249, -0.008818864254752529, -0.021704883583071363, -0.1052513439341009, -0.069779693024920722, -0.068916291749031924, -0.063880314208553571, -0.03982568887212793, -0.068751801935932, -0.027986972455071653, -0.021392280050906171, -0.024928699510711198, -0.032778357855554482, -0.019637345809626446, -0.02178511519331602, -0.016744113298135029, 0.0013634104291644238, 0.013110674317859951, 0.016322899434002659, 0.026660610652910713, 0.045711043802054249, 0.06000339835357895, 0.021679006050066823, 0.056470153207984271, 0.033038429995338514, 0.058532288243890868, 0.091995956763074052, 0.06285136565824237, 0.063727782111801162, 0.055728956577635054, 0.062704951525999406, 0.073126021821433601, 0.017302960670233698, 0.0083948399952019481, -0.0026791188364223336, -0.11417121930417028], 'derivative': 0, 'value': 0.4765087522164207}, {'weights': [0.058810790365420855, 0.013710593397831259, -0.033092569914810729, -0.035563925819826966, 0.011712357294192444, 0.022800202018228202, -0.028446216131544931, -0.022323875292749314, -0.041011529510515177, -0.038189841739105113, -0.059139755534994641, -0.019041159262683866, -0.041318792585825145, -0.021206557755719949, -0.0098472938999681729, -0.054047155926234082, -0.022006802937964684, -0.026400298027673345, -0.029632674983710042, -0.040291621020944995, -0.028748182861525938, 0.0058880885894162897, 0.0019867196780355605, 0.01143351868480574, 0.012237378128406648, 0.049990288781365952, 0.074564100014041845, 0.055933698879425432, 0.070072427332041026, 0.0295238782418842, 0.014171225140795126, 0.016934026125708827, 0.039843555756428374, -0.024516517159303888, -0.018870551415309335, 0.0010855734965384771, 0.0043357198106419277, 0.034851335164287331, 0.03501423010124198, 0.021219000408546605, 0.044341037230938955, 0.052691303504066943, 0.046713911891661131, 0.055532315035593756, 0.020704711469317925, -0.007556450403228855, -0.0044113650265582014, -0.01610572531198429, -0.045825221789114287, -0.060315453822611935, -0.06750246533222283, -0.03972264428809321, -0.015454455740869686, -0.01610317275201803, -0.01346271168995924, -0.0051304215669771436, 0.015180817862634451, 0.018961251252450448, 0.037192969044603938, 0.037969407429695491, 0.072312259071856969, -0.021804494358375743, -0.020436867039573165, -0.061058135962458147, -0.26314058994660033, -0.17043232328562258, -0.17265509911365381, -0.15465696625539727, -0.094425154658992552, -0.17462134571451557, -0.071644660776944966, -0.054123548644774658, -0.068796414753662549, -0.090044023539665022, -0.054637047176558096, -0.053567596160293225, -0.034436991865354795, 0.0088231934171017715, 0.042665915118930003, 0.057437372459193871, 0.081569289228795083, 0.12045123735440984, 0.15956762995384277, 0.06938727708267467, 0.17428317466516333, 0.096102411761686241, 0.14647295608833372, 0.21098484161212797, 0.14266408475068251, 0.14765950237811218, 0.14002300753278374, 0.15796983713247895, 0.16270549233851433, 0.054620242533992884, 0.037889317376331236, -0.0088609639799874431, -0.016754040249603034], 'derivative': 0, 'value': 0.55297021220827}, {'weights': [-0.1099161396296877, -0.034425295085955626, 0.034949716554476151, 0.026847754941238273, -0.052979665619885173, -0.054282991189667458, 0.026481773927075791, 0.02504867761439954, 0.06235305238105357, 0.066209787397543809, 0.10105953971279516, 0.03517093310266825, 0.07618921463150545, 0.041890220601359988, 0.025563578989376126, 0.096086437087183854, 0.045483386187987772, 0.064385624556853135, 0.064621187597796795, 0.081111239516033481, 0.065199944186032227, 1.9795208376505475e-06, 0.0013075750402083879, -0.012947385035475522, -0.017799510300395557, -0.07687012881544239, -0.11352787602292995, -0.087498259488342778, -0.10678732867521623, -0.033588374242675967, -0.0064788201931108924, -0.020763682734849836, -0.065987602254699101, 0.033599112240185199, 0.016724339828647093, -0.021608117213609671, -0.0317676659536867, -0.078274661239799745, -0.070798186319711257, -0.053639682760059731, -0.091736851557232657, -0.091462000147135042, -0.080914278417733812, -0.086722418280274244, -0.021810327792494821, 0.026041870289339169, 0.018061670335179764, 0.03256736075013298, 0.07192576277737292, 0.097631809712943954, 0.12253827221010427, 0.093958383488067357, 0.037584777821227253, 0.053450240832983019, 0.030958016658419598, 0.01975238844974888, -0.014408998873743679, -0.026180443156661997, -0.052674047623106332, -0.063379586403277469, -0.11228714145432724, 0.044503521034828228, 0.03338692206005868, 0.086268918678373066, 0.39415840310332589, 0.25571221013790951, 0.25262661767826616, 0.2262233637147838, 0.13440384093613669, 0.24242630614205452, 0.099040859057406977, 0.072829911030245567, 0.088751913302648019, 0.11875680334132395, 0.070179758230673031, 0.071817054982858911, 0.048720140673278504, -0.013705811290371342, -0.059425526894773165, -0.074806598027221255, -0.11088049996382612, -0.17501926532819811, -0.23098158117282208, -0.093142441771595849, -0.23518250248737363, -0.13349112187638104, -0.21666723760236492, -0.32282316360780045, -0.21836366923588332, -0.22273276832883898, -0.20043993926941264, -0.22729781956964978, -0.25235028224005723, -0.068328314185058039, -0.039082599290834637, 0.012825616037488797, -0.097151034511946427], 'derivative': 0, 'value': 0.41789809501426395}, {'weights': [-0.049283528235972984, -0.0068630136380867018, 0.036899014143551782, 0.039351900637644911, -0.0069527913388956536, -0.018309491523513476, 0.033003372877963136, 0.02750741458357768, 0.04540425533062855, 0.04245142101428788, 0.063891086099390218, 0.023118103518991805, 0.043319195943980295, 0.021737408319969918, 0.010159349710305332, 0.049519867164805845, 0.017824129970418767, 0.020099655250887138, 0.020907771479076395, 0.026685463029386028, 0.013420182530483302, -0.016797745496828893, -0.010495192926461599, -0.024916481543105044, -0.017926056065709937, -0.058551924707185669, -0.079677854144064197, -0.058420337730689789, -0.068875960453667368, -0.028632065983682047, -0.012244069145458687, -0.015786480406085452, -0.038561898823564658, 0.024204818178214488, 0.016795605221136212, -0.0053251447987241107, -0.0128394031565393, -0.04305060649379721, -0.038410753616833514, -0.022466366448084266, -0.041819463195044086, -0.047610006360572672, -0.041117897741845807, -0.04957399347893069, -0.015778756110464819, 0.0094301242446497586, 0.0053208841555618842, 0.015306274164813283, 0.042733635413104203, 0.055987229199109617, 0.06439393376055344, 0.037527935200052119, 0.013253562982562066, 0.013953042016172874, 0.01060623483809762, 0.0040497821458491757, -0.0126066721522977, -0.017470710100206378, -0.034841790488471934, -0.036221537895671854, -0.06604570259141028, 0.022902675223443743, 0.021055549461085541, 0.060085475793958711, 0.26000559944446044, 0.16657493236425616, 0.16667217209039414, 0.14457093267203891, 0.083547393491334582, 0.16025300587648497, 0.066908259127954645, 0.050549700110179355, 0.065205752683117638, 0.085796668106311827, 0.05230676387202951, 0.050861901639157756, 0.032007425535135851, -0.0090987962187181835, -0.042860604629474629, -0.058584933094849342, -0.081248564612124652, -0.11917123416745483, -0.15792308647033163, -0.070753286585846481, -0.17432617729329553, -0.095663398872350286, -0.14295787978766247, -0.19994566394011132, -0.13401303612943555, -0.13845172990844096, -0.13058309684099545, -0.14754370676494022, -0.15196326167394081, -0.049543058329786102, -0.033539749269382718, 0.010786398589963239, -0.088981510335234298], 'derivative': 0, 'value': 0.41553713514541807}, {'weights': [0.16215547254553583, 0.061867028265218095, -0.030719848728863738, -0.02009078857137056, 0.081476853771055194, 0.079804112877544894, -0.019836851026324737, -0.017145569980747326, -0.065495660499696351, -0.071545577770673413, -0.11350383742915419, -0.033033090513710471, -0.089915408614923323, -0.049972371942539354, -0.03086040101682052, -0.12828288759445922, -0.066157860170692959, -0.097403310600652313, -0.10274099886243325, -0.1349415105979655, -0.1204995828302351, -0.027975571361898533, -0.023495936848798117, -0.018952052002195952, 0.0068545819101956231, 0.071774641445648865, 0.12556216507614076, 0.10146379317940014, 0.13315373991842896, 0.0410885487173384, 0.0094999112852613785, 0.026848481199326452, 0.08556313630104076, -0.041189028943033043, -0.022119613988632141, 0.021664645008356305, 0.02436975762797353, 0.082549981608132386, 0.083088922273703056, 0.066135050822606414, 0.12339451597229857, 0.12658166754008751, 0.11440047199881075, 0.12190270671190057, 0.03872390004396354, -0.028901903516715784, -0.021508795642799887, -0.04202868293562282, -0.094305878813378125, -0.12963687459317561, -0.16072036484161156, -0.12563852036998541, -0.054177923284241307, -0.076732150073235333, -0.047433040060023843, -0.030549521422453606, 0.019498665532721594, 0.033748291497860058, 0.068159000305240192, 0.082187759698929733, 0.15038443426279066, -0.05567250153019259, -0.040804682182188537, -0.10844450558775928, -0.49348312547589412, -0.32463524529327825, -0.32421948448629484, -0.30213503982851198, -0.19064800939552581, -0.327333074603397, -0.12954395444162795, -0.092804931203112409, -0.11018217419324387, -0.14841033060699413, -0.085323748578443034, -0.087296477511436141, -0.059444913005864707, 0.019844869718809263, 0.073675297479684695, 0.087081215557012356, 0.1345751500011616, 0.21538223438354887, 0.28401072459777549, 0.10797587317613141, 0.2813371744743835, 0.16184994566950989, 0.2713928033848616, 0.42128723112403343, 0.28795208398471595, 0.29395301089704867, 0.2648716214595444, 0.30118934441148737, 0.33621378460294543, 0.09317818384453147, 0.05460446536317453, -0.011281426741863927, 0.075153318099638641], 'derivative': 0, 'value': 0.571605046460022}, {'weights': [0.04108218803813965, 0.033626310940874364, 0.042182104722845955, 0.065173194765978451, 0.070069696517841742, 0.039483860916298151, 0.046809493132458364, 0.03185803705935257, 0.01777501562076848, 0.0021470685706968234, 0.0024082322187984348, -8.7862569794578091e-05, -0.011145187353362552, -0.013489982565128487, -0.017649144792636712, -0.024741270851663871, -0.026870144721951195, -0.050347641967819726, -0.046051798573044568, -0.054001259690498515, -0.062590108064239661, -0.039515236533485737, -0.025069298864901061, -0.036459193674117027, -0.014541413608574109, -0.024497300792302053, -0.024730609890780936, -0.012765486074165992, -0.012205904073676827, -0.02406893445186313, -0.024395518362627874, -0.0091961382488020948, 0.0017610084889857589, 0.0110626010137936, 0.019069208828445608, 0.022836339633944134, 0.022444075647028251, 0.015954821166791339, 0.013391935181894719, 0.029731429018011485, 0.036254431101796901, 0.017681555219165646, 0.017828092372142487, 0.002019045655217812, -0.014320900800500188, -0.021204968568389101, -0.01751649509873637, -0.013691968467079509, -0.0020802600313018856, -0.0071088055842273949, -0.025309685212728774, -0.053637195588423933, -0.024911517360354081, -0.049795844726749833, -0.020044705326969614, -0.019190079618189478, -0.007606876771143369, -0.0027818696003351026, -0.0076594904415330676, 0.0065787590231264504, 0.0049120268392291791, -0.0098484316044838861, 0.0036430289219750705, 0.025664642659959311, 0.06969310040379928, 0.040256484021717824, 0.046581487669683778, 0.031733087826094616, 0.015027764592747158, 0.048462782695441228, 0.021852362605517296, 0.017419802493602494, 0.030582116164776543, 0.038187599749640283, 0.025140517543645373, 0.016897831437439784, 0.0031335545376275694, -0.0058887840050128133, -0.021567646295130079, -0.037039152771177995, -0.040542898467173738, -0.037546862474379945, -0.052321991833073352, -0.039584450757163096, -0.090510718058681452, -0.042674356168779334, -0.034987836355581281, -0.020601715099421342, -0.01121858956072686, -0.016161767700196786, -0.032034852785090752, -0.036260545631933518, -0.0060504108482986457, -0.027136219786445724, -0.030992057766284414, 0.0076737675767450022, -0.11992135698019311], 'derivative': 0, 'value': 0.3969697958486736}, {'weights': [0.10840568380112797, 0.046349063411772529, -0.0025985792910013399, 0.01597284468134617, 0.078402814408314869, 0.063715971509260005, 0.0080806724894157307, 0.0014282202105343411, -0.03432667339258854, -0.045244568426535368, -0.070114814018315152, -0.022770205585208633, -0.059739642274593274, -0.036490625153478874, -0.026522112126123539, -0.084603851152931536, -0.048852116835887513, -0.076342619696153691, -0.07602046229158127, -0.095121558796668129, -0.088678593352396876, -0.026373750105180026, -0.018775258072436539, -0.016602384088507661, 0.002871810427750675, 0.040571848339225725, 0.069250024986520872, 0.057037855314661642, 0.074306358077203857, 0.013569413929367053, -0.0057584163108382325, 0.012207175513466718, 0.050429936294134781, -0.020026878100342229, -0.0053432860546485427, 0.023206768350107442, 0.027839098064452752, 0.0594726031484634, 0.056471227423094933, 0.054337848863426158, 0.08820172668805705, 0.080499020407421351, 0.073091794419969339, 0.069272248115863674, 0.012274873137258866, -0.028588402923200654, -0.021130220240552718, -0.030039729739644971, -0.053785979504937277, -0.076853394780382167, -0.10389751161778493, -0.096266911683126427, -0.041261806279102746, -0.065358619821094255, -0.034470073933228519, -0.023442498581765316, 0.012121216904520509, 0.02067742815573034, 0.037945486583910781, 0.052418152560781056, 0.092156596034457708, -0.036133990782931669, -0.021646695314966737, -0.050481512542053741, -0.25759265771371104, -0.17161541466676178, -0.1678709887727666, -0.15831280198635006, -0.098874192182871481, -0.16455971770036248, -0.065704817165094673, -0.048017069270805603, -0.052900938159508221, -0.071422187329551232, -0.040629738573687339, -0.045827750901738719, -0.035141361919587395, 0.0079377575224146742, 0.034525073452689591, 0.037295905919568904, 0.062658270155109927, 0.11300092456694309, 0.14693416098108919, 0.048385721562780828, 0.12903180640585279, 0.077784726867682952, 0.14672395763414553, 0.23842125603074674, 0.16325849936960396, 0.16417502871009079, 0.1393767264527874, 0.15714617220932531, 0.19128781115411034, 0.040154808671395037, 0.016049605948076043, -0.0043336609988451971, -0.020253108637853449], 'derivative': 0, 'value': 0.49989095644776393}, {'weights': [0.07082050564057861, 0.016921496631702084, -0.038992000889983808, -0.041804818571801031, 0.015055861249500282, 0.02781420937724368, -0.033682077362362853, -0.026386313813852588, -0.048794403459450769, -0.045602348865520573, -0.070782718459169419, -0.022802929053608777, -0.04970078124829979, -0.025475196898063143, -0.011970389951867211, -0.064814041184763901, -0.0265036528234272, -0.032058843152185976, -0.035681565821225794, -0.048372056977117071, -0.034679036206110445, 0.0070201471554536335, 0.0024068972797581731, 0.013701033163292738, 0.014592347195451456, 0.059708766403869615, 0.089147224234866942, 0.067018621684635557, 0.083725275011380815, 0.034963276399543719, 0.016411828548985388, 0.019947098505785073, 0.047885072222951811, -0.029036236713627133, -0.021777545945116873, 0.002525701275836463, 0.0067243577621510396, 0.04330613900032159, 0.042945141561291346, 0.026258511587555391, 0.053994206274676028, 0.063585900148747335, 0.056298895402782219, 0.066732741029719253, 0.02495982396423569, -0.0091701739348447574, -0.0054714577458864948, -0.019350333564028595, -0.054804848158340587, -0.072223913981295795, -0.081306298282703374, -0.048414489136950949, -0.018888243571887096, -0.020176688298365962, -0.016435193613220333, -0.006844421896036468, 0.01703402308138539, 0.022202068491402466, 0.044016898947279254, 0.045309126441452387, 0.085791103673167432, -0.026788120974544593, -0.024756782697114465, -0.073214673825879276, -0.31505421704740266, -0.20375764241057814, -0.20610012056402627, -0.18452490366841162, -0.11244804415788549, -0.20770643820989124, -0.085054675510013639, -0.063869131318887634, -0.081196271714880419, -0.10662805725270701, -0.064519941185049057, -0.063144678348221753, -0.040434693092558496, 0.010922012960498951, 0.051107359995757627, 0.068498895781295796, 0.097361646381189826, 0.14382226740680051, 0.19053430591427198, 0.082743280510365974, 0.20772234291592043, 0.11463992642041115, 0.17469481558391878, 0.25174748802820518, 0.17024345497768109, 0.17618196358111943, 0.1667661168967981, 0.18835107352839064, 0.19451165873350129, 0.064813661608049869, 0.044698372587609045, -0.010666477939517428, 0.012094268888052444], 'derivative': 0, 'value': 0.570477537040649}, {'weights': [-0.10964931318460597, -0.034204299454114427, 0.035872037684608081, 0.028833992021189313, -0.050706659393895334, -0.053291082058758883, 0.027535701525505545, 0.025316156110711849, 0.06204637631120092, 0.06523870767589772, 0.099927775245247777, 0.034326771341458277, 0.07514424202401089, 0.041185529108546406, 0.024803849370746249, 0.0958178336601887, 0.045119893249676461, 0.063311057544494884, 0.064167996072161629, 0.081267334494132371, 0.06538826405862716, 0.00048367532174811148, 0.0018996556795316023, -0.011890949572202112, -0.017296548213048202, -0.076149639440994524, -0.11345600247411081, -0.087427092253363398, -0.10729463857377403, -0.034807940803455194, -0.0080291231718636179, -0.021427366361188967, -0.066020394342587413, 0.033972487824636521, 0.01781420023168714, -0.019767154495380995, -0.029109096232106325, -0.075863366427788723, -0.069418473968771016, -0.052030185362326224, -0.090412008955795264, -0.091473534153482458, -0.081016844176876004, -0.087528136757453176, -0.02336998608879164, 0.02464615172923949, 0.01710482880705394, 0.032166137454791639, 0.072451021246240768, 0.098058087897981108, 0.12176484929964605, 0.091899570705195291, 0.036859788395432538, 0.051556439595496349, 0.030531750851970896, 0.01908139686571874, -0.015131005422430338, -0.026518248246838318, -0.053333433009483108, -0.06326026608756001, -0.11290975400006498, 0.043679374116718857, 0.033298759881773554, 0.087292112838321903, 0.39644606585838188, 0.25726365768581982, 0.25488435806724807, 0.22875157225529308, 0.13664829922171418, 0.24646660181593508, 0.10055364010063543, 0.073955748427064358, 0.090431161699955034, 0.12090045888267269, 0.071538285015577699, 0.072889154962824027, 0.049253697202916842, -0.013790787215801981, -0.06006284564502519, -0.075925606289384273, -0.11236363143685206, -0.1762887952346574, -0.23271109774533483, -0.094258443813331191, -0.2383052910373463, -0.13498678211817913, -0.21805839997863849, -0.32458718267628306, -0.21969974908579287, -0.22445585694036457, -0.20300161547208886, -0.2302049144484915, -0.25390635939100242, -0.070342311731577956, -0.041238912873141749, 0.012757661674305094, -0.097728510827528703], 'derivative': 0, 'value': 0.4160452062404773}, {'weights': [0.052011207319711407, 0.0079226342036565166, -0.041854219735653571, -0.049911635896048155, -0.0034078337083805329, 0.014851136897834993, -0.038317785172176308, -0.028355178496962306, -0.04398181869532742, -0.037535513768628827, -0.058641958333132155, -0.018173073810438894, -0.038587418702628815, -0.018415283125353576, -0.0061139695153209174, -0.050528823619137478, -0.017439696118677361, -0.016742292501541689, -0.021549589011622381, -0.031858910713670245, -0.018775044228196092, 0.011948953673122271, 0.0054484024279107032, 0.016271098214093858, 0.014107316634281214, 0.053571341182869173, 0.07937976545445273, 0.058548190529262807, 0.073591737561875509, 0.03568659847716648, 0.02068376805028193, 0.019580066478827818, 0.040011294141416159, -0.027094836939393845, -0.023730273744602796, -0.0052397444265612101, -0.0030361115861770134, 0.029189535264539691, 0.031176727991861077, 0.014062848568300248, 0.036680406277422958, 0.050266797762068369, 0.044309955973935305, 0.056996553341847077, 0.025616314589004707, -0.0020446452166261037, -0.00014498886425970989, -0.013600713158402755, -0.047166430164745414, -0.060727291777567971, -0.063056393367689145, -0.02827459072878772, -0.010378508066772436, -0.0051399261638236313, -0.009616051113842769, -0.0011598614832003156, 0.017242312064553487, 0.019941958283870517, 0.039695868867198496, 0.036928459599796966, 0.07286328958392646, -0.019287984860329618, -0.021241431722130662, -0.067694448939003199, -0.28126075741817508, -0.18120540108735966, -0.1855481221601876, -0.16524705402672565, -0.10126300518936546, -0.190754849229301, -0.078437401574784071, -0.059504333448968487, -0.077521334166405692, -0.10100190415906819, -0.061839846712241915, -0.059058691883684372, -0.036591465269428212, 0.0097266364607832469, 0.047471931534678005, 0.065931418439657177, 0.091555770005125867, 0.13002368318999669, 0.17282121655058322, 0.078632802450545269, 0.19636461760601584, 0.10668691824733181, 0.15601248670844717, 0.2191362444054083, 0.14793185930638189, 0.15443643756028999, 0.15069640615680088, 0.17004343620910448, 0.16764519237711878, 0.062764607632831801, 0.046751145785245869, -0.010153746845465961, -0.0079010494983698977], 'derivative': 0, 'value': 0.5704782759396932}, {'weights': [-0.075215160679310777, -0.022443590678213936, 0.025240897508964084, 0.018521367215644541, -0.037517282318551871, -0.037988159460106946, 0.018580068540763661, 0.018381283066658233, 0.04505914483837218, 0.048119169553387998, 0.072720927860192547, 0.026165857708801532, 0.054410944281172588, 0.030105705833256929, 0.018458241027429798, 0.0669656378943531, 0.031413692542250057, 0.044243144385273485, 0.04366906584344811, 0.053871526824719553, 0.042047132841811566, -0.002817647899692959, -0.0014334538775393265, -0.013201360101358641, -0.014529248577944796, -0.05750497565681275, -0.082054143115887226, -0.062519564523435017, -0.075108265735272503, -0.023312337104082981, -0.0041085156717288159, -0.014607883054834044, -0.045874599883433946, 0.023616616773328995, 0.011674178632532841, -0.015659415519817251, -0.024056085814911823, -0.056584964062908576, -0.050350333536302271, -0.038627630254435108, -0.064206733100061072, -0.063210933761379803, -0.055725113193334529, -0.059113647741327456, -0.013143615438198683, 0.019476325025881147, 0.013260469537455556, 0.022907775083223714, 0.049656584857348779, 0.067516602018888525, 0.085272364256498909, 0.065691724911414201, 0.025831283692431085, 0.036999600809900869, 0.020819648224130943, 0.012624617810875382, -0.011831116208733781, -0.019257402740824003, -0.037438513465963837, -0.045037805990999116, -0.079264786961303194, 0.030747213553448078, 0.022971184106777339, 0.059248611760572903, 0.2742477263564998, 0.17778169301396252, 0.17526412521186885, 0.1557742695755541, 0.091381805468860558, 0.16660034568183363, 0.068742680136796713, 0.051297152926215055, 0.062571378915606143, 0.083279414540176566, 0.049672156310179717, 0.051134611955906746, 0.03491220185382353, -0.0089597349651065819, -0.041538867345836269, -0.052905497320714243, -0.077755858748550052, -0.123232190856852, -0.16227174883508991, -0.065770264038431503, -0.1652262846589585, -0.09366199678461809, -0.15229825232471397, -0.22540293209439125, -0.15209412546364307, -0.15498753428601347, -0.13901972769629234, -0.15715720872003194, -0.17502671908683914, -0.046569240772080051, -0.026224412264900788, 0.0092452724343500409, -0.08502649320054613], 'derivative': 0, 'value': 0.436178230931303}, {'weights': [-0.097204894015927593, -0.031690407424440944, 0.025440215007123703, 0.014070292542149022, -0.055464680832569793, -0.051570408313966296, 0.017047637191742071, 0.0189421902456068, 0.053503530272363362, 0.059491872923234775, 0.08977365228390026, 0.032570930787861288, 0.068757480300659007, 0.038697963682336099, 0.0249772875633162, 0.08468102742133439, 0.041561578661200603, 0.06077792355227879, 0.059104234187386175, 0.072035099589101023, 0.058606193890588056, 0.00069950798804039834, 0.0007412585458727699, -0.012460563930134599, -0.016222278152012715, -0.067488758538404636, -0.097086147122123878, -0.07493040533457837, -0.090013967380322663, -0.024597884265285804, -0.00058939329740863712, -0.015992035495766627, -0.05655608372454532, 0.027394407671502401, 0.010947440456114954, -0.023884819210711141, -0.034761660932776731, -0.073709160812642754, -0.064734333181263773, -0.051950960997793554, -0.084054461210163009, -0.079463035350395325, -0.070194266807744266, -0.072252327267632102, -0.013516911160773854, 0.027316353952972012, 0.018982287783132806, 0.029752417956482244, 0.060391725012471455, 0.083027742802908838, 0.10827038660528507, 0.088571570024883875, 0.035295966348526019, 0.053071560988041958, 0.028472411062010778, 0.018941161764747177, -0.011689871056759128, -0.022283051982447306, -0.043808394584525338, -0.055602658488671977, -0.096204763461514672, 0.040190530923823978, 0.028249707985829178, 0.069428355899375044, 0.32775142524544792, 0.21289644733152133, 0.2082890515658995, 0.18574797817409233, 0.10866842579982425, 0.19530084140871717, 0.080271712504467449, 0.059360496682092027, 0.071018036908514992, 0.095130748158597289, 0.056091206027203737, 0.058819585552212811, 0.041014284987886715, -0.010857016910943835, -0.04821240941064029, -0.059616610829007884, -0.08938798637898461, -0.14547147898538826, -0.19141486774675606, -0.075108245298252246, -0.18938815431384828, -0.10862515063680996, -0.18121500400901486, -0.27228328196313201, -0.18389830759134776, -0.18641701054114368, -0.16422334591879159, -0.18590307358992, -0.21248385383716659, -0.052129049507188885, -0.026516531501569178, 0.010663292007346652, -0.087121483445090436], 'derivative': 0, 'value': 0.43621623512541774}, {'weights': [0.029472080634672361, 0.031294379275881537, 0.048979909140156992, 0.072036542578221952, 0.067181420775561801, 0.034780518866328422, 0.052755646022358875, 0.037039389717608479, 0.027210858229174541, 0.011342788878662875, 0.016277596736723781, 0.0051441091167232084, -0.0013067126365906511, -0.0079646581357821263, -0.014538832584114779, -0.012539976790543216, -0.021689987223881272, -0.04406383402165092, -0.039674724722821055, -0.045833209206928245, -0.056805524906060244, -0.041074762900373957, -0.025978719208612808, -0.03982987462483778, -0.017557957248882195, -0.035558139497121909, -0.040404360979428032, -0.024434369655724007, -0.026454163879631579, -0.029521454641867301, -0.026493861212625161, -0.012442421246340634, -0.0063639107155624699, 0.016052800120008228, 0.022519457279108396, 0.021805268310600784, 0.020193535540872685, 0.0075436022925330177, 0.0056034404251762661, 0.024760836955744159, 0.026930215580416514, 0.0074065091566293245, 0.0088700555513926901, -0.0083423515484693407, -0.016826132713639766, -0.018394625284076514, -0.015759665762344176, -0.009602678324825609, 0.0078250578171250047, 0.0056585478411093383, -0.010529742180617658, -0.043634446597779153, -0.021138916411496591, -0.045058059855587258, -0.016953030854158231, -0.017478896665805811, -0.0099113008705301476, -0.0063531149306451417, -0.014773664352968794, -0.0011374212672839736, -0.009287731483292842, -0.0047771713819567373, 0.0079718418387463956, 0.037732768132413073, 0.12284131015055905, 0.074583330471823639, 0.080959655028349897, 0.062095046219409311, 0.033052391210882423, 0.082310784534177242, 0.035952434950478507, 0.028243061943508844, 0.044303462803188205, 0.056156613682703978, 0.036176477405570118, 0.028033389457746385, 0.010709233237469596, -0.0070641286933600736, -0.029544294861462775, -0.048115524017449264, -0.056452080360482583, -0.061527243827947831, -0.084000865537829428, -0.053251517184806293, -0.12450657753857751, -0.061491414288679977, -0.0640563198465227, -0.062332916979937369, -0.039382616845805643, -0.045232531772887892, -0.059067083903722145, -0.06669376085011304, -0.038125012531748013, -0.037006685201645927, -0.037373032442950808, 0.0098040983193672607, -0.10567736529061567], 'derivative': 0, 'value': 0.3908522671227314}, {'weights': [-0.085143117599867785, -0.023605058869468769, 0.034102930324222049, 0.029221003926812445, -0.036454258142504775, -0.040578734984675263, 0.027207324929348069, 0.024917212829243095, 0.05464890732302382, 0.056379608044817918, 0.08551457817527941, 0.030447261153924501, 0.062873308990562982, 0.034073963047612378, 0.019925077564725818, 0.077138641047914902, 0.034704883830395307, 0.047378390027146118, 0.047452039677011948, 0.059310450243674526, 0.044731435480909548, -0.0062420738711350668, -0.0033145658845379739, -0.017625953772777796, -0.017774356885164856, -0.068892839561045013, -0.098550605932697738, -0.074756817717581331, -0.090004223125300278, -0.030303845799423218, -0.0077178372627757924, -0.018199991794640016, -0.054165919393667418, 0.029071099322950003, 0.015856432205375273, -0.015824768652444574, -0.02521189267858838, -0.064404810160388876, -0.057719961577665457, -0.041887277275823559, -0.071890676970003398, -0.073155079846902463, -0.064329657565756024, -0.07037022763316253, -0.017964556898559681, 0.020200448250254108, 0.013549894463523945, 0.025824494759155655, 0.059328126006275336, 0.079846078889134212, 0.098559301754010065, 0.072129725532957559, 0.028114985697965774, 0.038600819757277652, 0.022867278538533042, 0.013567828403856669, -0.01365627556064445, -0.022508175900050359, -0.044766907537583778, -0.05213458919218357, -0.092711331274377404, 0.03556703126387923, 0.027829740430940504, 0.073553079321479434, 0.33281272885272251, 0.21515895623327622, 0.21304601542388404, 0.18886417378492582, 0.11102858293398697, 0.20394323571666406, 0.084039144982584205, 0.062522910306769722, 0.07735583320547218, 0.10288673425564417, 0.061515603969913422, 0.062300857116765841, 0.041646654454794568, -0.011235102414728575, -0.051254276015501171, -0.066278007570713435, -0.096317112284074038, -0.14945183772318654, -0.19731162865797544, -0.081883561349804887, -0.20506691372133562, -0.11533941084799298, -0.1834805056716258, -0.26873167178839175, -0.1812625815382351, -0.18539761310074032, -0.16851064393418311, -0.19073808846633711, -0.20836313472049511, -0.058647778183817216, -0.034964667847552422, 0.011690474255973568, -0.091226137807220387], 'derivative': 0, 'value': 0.4202912133974537}, {'weights': [0.049981279139993007, 0.029593585870369195, 0.022394921381128582, 0.040833590204643985, 0.06008390006079669, 0.038426546048337375, 0.027418158454007312, 0.016437797051824216, -0.0015198293822602416, -0.01364899464834453, -0.020854700018079066, -0.0089060772144447312, -0.024738991668269289, -0.019472915277095371, -0.018919909900919969, -0.038175058454137309, -0.02899936629219043, -0.049461147741376062, -0.045884976965091688, -0.054384770991961165, -0.057311215179188163, -0.027809646936830773, -0.017608512672794611, -0.022331176959172559, -0.0062583876428461147, -0.0013218813124908611, 0.0052300534605746732, 0.0083082181245087618, 0.012402883091403099, -0.011061460453193846, -0.016824031773306807, -0.0026066541194364212, 0.013934150801956743, 0.0008192937225446603, 0.0098883852553325585, 0.020353751485551175, 0.022443956449313757, 0.02689498241910478, 0.023320797488383095, 0.03163474122694495, 0.0433548813315488, 0.029473120197145975, 0.027516077897895369, 0.016994027253898061, -0.0085482303494678353, -0.02190515808404853, -0.016992554268552808, -0.017178529865023471, -0.01650717232490552, -0.024951873365423712, -0.043152049971647878, -0.058558013092317202, -0.025713498971280512, -0.047394685281636324, -0.020715115833637242, -0.018038641130217411, -0.0027541375401244558, 0.0031750573175205309, 0.0046783016345154213, 0.017216008377902142, 0.02555157235370293, -0.016223677319335134, -0.0040568505393223254, 0.0016430198224731795, -0.027885746494424438, -0.021854338435243693, -0.016530624675766124, -0.021496554179982929, -0.015241532605813322, -0.012802795747476317, -0.0040920812506958651, -0.0026225767916797341, 0.0035090697754993345, 0.0031523596335911192, 0.0033632498142378243, -0.0032985313705031854, -0.0087494481590671032, -0.0026094432063743182, -0.0045556026868505571, -0.012136623829279674, -0.0076227647873777157, 0.0074736160034270718, 0.0077455149809372171, -0.0101431004485334, -0.019334827232913465, -0.0047869761870158213, 0.017319155526642028, 0.048121892666350169, 0.034446452203596552, 0.031698811173442094, 0.015580351088507456, 0.017358981532508467, 0.044318874658787616, -0.0071177643282162193, -0.015706417563596982, 0.0024832512537751967, -0.13769618948114001], 'derivative': 0, 'value': 0.42279725561658393}, {'weights': [0.05942355023244196, 0.010207061670404371, -0.045372067032045979, -0.054341208087445206, -0.0026192838778721079, 0.017406215065933862, -0.041495759639592032, -0.030307622722735555, -0.047734067987884869, -0.040676366358715625, -0.064026885883475423, -0.019417817243542714, -0.042484810711892002, -0.020418371247486695, -0.0069148642990673245, -0.057020523395413143, -0.020258352717901666, -0.019941094631039259, -0.025564472536779938, -0.037912331082411245, -0.023834697361913664, 0.011116179869154755, 0.0044350522489201754, 0.015537750111343878, 0.014553473189193835, 0.057734538283900502, 0.087015031554220842, 0.064458246407234132, 0.08167538193537148, 0.039637182328100123, 0.023186910554783492, 0.021875177457075196, 0.044659572007437545, -0.029875462591840162, -0.02625594357406337, -0.0060834933045537248, -0.0043004914715199932, 0.031495806869767225, 0.034348826674952787, 0.015709339934171059, 0.041412009646264285, 0.056837767373627786, 0.050243604785479394, 0.064312869736922629, 0.029430692126984296, -0.0018971379503885013, -7.888470568168038e-05, -0.015336877405992948, -0.052967000868437634, -0.068204409607786537, -0.070663092405094913, -0.032171356304023013, -0.012102016944063055, -0.0064842223853909071, -0.011298355937974007, -0.0018419781579252037, 0.018917950655887694, 0.022096828174278473, 0.044133852089902864, 0.041092889325445352, 0.081349285356534462, -0.021411683937660891, -0.023518144982230975, -0.075194162713638393, -0.31191623047683892, -0.20108291764870329, -0.20617304039024786, -0.18447117011077979, -0.11379133638478305, -0.21322883013294042, -0.08737741560546608, -0.066047781404940914, -0.085925546633539129, -0.11214486738728169, -0.068536096882320319, -0.065448095952263516, -0.04064405569219795, 0.010820979455735591, 0.052484363985788825, 0.072671779610322812, 0.10133686470460744, 0.14396203807590099, 0.19127135544070042, 0.086631392697453971, 0.21694781746749736, 0.11798628220572777, 0.17290714774915539, 0.24393041523710654, 0.16492148371405926, 0.17228642135519992, 0.1681164976789018, 0.18980517480732634, 0.18734941527714979, 0.070233088434700608, 0.052367916379728673, -0.010951913917147083, 0.010157072559629094], 'derivative': 0, 'value': 0.5809892361899978}, {'weights': [0.069730382912244815, 0.011905689927736466, -0.051938517288099048, -0.060278457840951247, 0.0019577344150710769, 0.02248204450432249, -0.047729210686766332, -0.036164102394032581, -0.057901152150123494, -0.051065937656805269, -0.079492269942954358, -0.02582859331243979, -0.053556215672754294, -0.026199333079440636, -0.010306829114218602, -0.068045747076461535, -0.024500789205429439, -0.025473869330075508, -0.030027924343896562, -0.042467438823497738, -0.025602641779841485, 0.016073793222148049, 0.0080471935259014919, 0.023015156870436516, 0.019204734508973212, 0.071237736666894133, 0.10414270956344208, 0.077167931978811152, 0.095486482130908754, 0.043834222525467897, 0.023148798091555661, 0.023818087938898887, 0.052890170976864624, -0.034261717412996336, -0.027459420503163915, -0.00094763118801828897, 0.0040557310292159482, 0.046107757112675535, 0.04565927014966991, 0.023219385220295506, 0.052513301446345285, 0.067091262631328072, 0.05878675951945362, 0.073830745922149291, 0.030815162850385287, -0.0057394848015674751, -0.002532958032396569, -0.019205077220003398, -0.061624139434681743, -0.079681679025128876, -0.085842083567788705, -0.043446057944357755, -0.016063911981863948, -0.012614095226136421, -0.01430774444482024, -0.0045963541123024507, 0.018531598082403657, 0.024410745769618443, 0.049784944458898313, 0.048369030432323656, 0.092838683071698777, -0.02847470560171915, -0.028768690451399664, -0.087476365371361955, -0.36554710665390838, -0.23467782502487133, -0.23845201745860717, -0.21132078861222037, -0.12792696954777535, -0.24079373815840113, -0.098908302991384658, -0.074270899951178609, -0.096542975424846161, -0.12666812866355412, -0.077208567631642813, -0.074024210140509999, -0.045983234979130587, 0.012933358326476815, 0.060859679271854622, 0.08379757658690061, 0.11685576022836403, 0.16757373450330951, 0.22263281116739406, 0.10045729477624053, 0.25001205139743565, 0.13639382696163532, 0.20076741696729009, 0.28258814336698579, 0.1906298599193256, 0.19850070112084073, 0.19149412452636783, 0.21647969311314594, 0.21687719468165365, 0.0774987834946336, 0.056007491039352014, -0.013680277896196922, 0.036887622963445783], 'derivative': 0, 'value': 0.5979488596296461}, {'weights': [0.014365909491451221, 0.030443457807349864, 0.063492112839437301, 0.088313456440591187, 0.067531491965539439, 0.030127911745387346, 0.066521820830041392, 0.048423919156990528, 0.044487378760540174, 0.027155772678933005, 0.040129613059773278, 0.014454347766778126, 0.014758404941466215, 0.00054790688847516282, -0.010391738184142464, 0.0058080947850519017, -0.015299111265685377, -0.037867563236690001, -0.033544733265578185, -0.038007983107642786, -0.053731492858184939, -0.048088577632865663, -0.030591888889176144, -0.05007820044444667, -0.024418635388848444, -0.056817089006358304, -0.068857902778081112, -0.045081761179805807, -0.050800836277331812, -0.04005865162600912, -0.031211611285962722, -0.018106039851676057, -0.019626936222805699, 0.024857698462669945, 0.028828644224747648, 0.020327937724806854, 0.015808385793429944, -0.0075400092856858772, -0.0075475110803199727, 0.017947680613858773, 0.013925745237990523, -0.0081106895059402679, -0.0042354893063814986, -0.024898550227177012, -0.021579173796128615, -0.0150227392370535, -0.013972595366917463, -0.0038094790432649148, 0.024012350843011895, 0.026065974551433252, 0.012215447020816424, -0.030706591531027689, -0.0167978800632714, -0.040623676839937083, -0.013481742733452864, -0.015650365383674852, -0.013064479029888554, -0.01192450669017828, -0.026489172991280219, -0.013018644685756822, -0.031060558751526489, 0.0035676510099802673, 0.015782579103424819, 0.059880595714475203, 0.21630626902239911, 0.13388624980270991, 0.14039538293435339, 0.11316138797184533, 0.062430270877646875, 0.13987726742202616, 0.060192025177249801, 0.046847660816128824, 0.068788897580576838, 0.088226902348320493, 0.056113976476777218, 0.047525315237025821, 0.023320105063683472, -0.0093577863981495688, -0.044321603220061165, -0.069469909889302461, -0.085998024082406574, -0.10415564598434007, -0.14056859798640117, -0.079256919902132336, -0.18792253042996515, -0.095953747638016174, -0.11442216356867656, -0.13150227298660358, -0.085714649485166092, -0.093391516645707939, -0.10489852772648332, -0.11834922220915629, -0.090303526573201204, -0.054491622543521176, -0.049428412531546166, 0.014228072286751461, -0.087316406266847307], 'derivative': 0, 'value': 0.3739301127724059}, {'weights': [0.066990687205805574, 0.02381652210523073, -0.014980558457415827, -0.0089085899381201317, 0.034998989874369266, 0.034256874426299128, -0.0087440350762178782, -0.0087128849573597216, -0.030466154532714233, -0.033421122031093958, -0.051822408095834722, -0.016749458438976, -0.040408080551953246, -0.023233455481801432, -0.014580201303562905, -0.056198453544245866, -0.028661780463007307, -0.041052176475392964, -0.04256666355550489, -0.054886593784660098, -0.04761136349681791, -0.0086753799676114948, -0.0071264536032379332, -0.0026486982016283621, 0.0058720806085306582, 0.036196446112231981, 0.057920865018869373, 0.045408524912075358, 0.058376049794627301, 0.017957287056545857, 0.0042195317694423799, 0.012123421414913932, 0.036189103440616967, -0.018229037241200199, -0.010608502646820643, 0.0083558509331413226, 0.011023133404486747, 0.0360713955329479, 0.035645671919850075, 0.029314588364593219, 0.052299295542771372, 0.053252586855355312, 0.048002580169056903, 0.050240750926560447, 0.013451959717121409, -0.014165224607875723, -0.009983752618676435, -0.018721010509843858, -0.040771799816936086, -0.055715079869128839, -0.068716426578635734, -0.053947593681417008, -0.022492485063764316, -0.031799262949641159, -0.019027498224495763, -0.01094782346288809, 0.011809425676536827, 0.016346712744731446, 0.030783210068534021, 0.036442078582365783, 0.066927129838251109, -0.022616819902246031, -0.016727380088421215, -0.045134428492521389, -0.21008281091879213, -0.13820065605783968, -0.13804471303204879, -0.12714435116776346, -0.078989248213849436, -0.13879638538874881, -0.056281013363322821, -0.042161988568528985, -0.050424468928799468, -0.06662384207835309, -0.039553372551226408, -0.041313200183308481, -0.029083776773187259, 0.0062102855084181273, 0.03091428713066733, 0.038418665549247659, 0.058538995104032265, 0.094415379478177561, 0.12398907941948033, 0.047838461291897783, 0.12340492741003237, 0.070594184718729594, 0.11865677768483242, 0.18170964222140881, 0.12377727188601606, 0.1263725407746466, 0.1138103660380792, 0.12823703257527513, 0.14317320730206756, 0.039152222426574429, 0.022820014234586468, -0.0052430332974654197, -0.050326132657629988], 'derivative': 0, 'value': 0.5128914586839283}, {'weights': [-0.036861842739548532, -0.021446409012794702, -0.016243470353521347, -0.031493158433971706, -0.048160218958777638, -0.030649214082001226, -0.021152561533511832, -0.012667238986007851, 0.0010861861868969741, 0.010581880989409619, 0.016009286131496304, 0.0063036633285266305, 0.018232817229544163, 0.012701678075971024, 0.012268968076282253, 0.024131570480592609, 0.018349216786818705, 0.033524143574062026, 0.029722855652108696, 0.033476829029442857, 0.034234241214472799, 0.013646785386669573, 0.007912981101552757, 0.00801495091235244, 0.0005973775841208248, -0.0067835740992038896, -0.010383606411606336, -0.010246604865992557, -0.011348125002624509, 0.007819810001287222, 0.013255832565460304, 0.0020061345494486768, -0.011769246450378044, -0.0011128663365226837, -0.0095681285187894718, -0.019948410636467757, -0.02483694974133429, -0.029445670216886745, -0.023445668376721671, -0.028869636411824478, -0.036681467844342806, -0.025008319769532741, -0.022639818403799208, -0.014366401831355843, 0.0042987164514086606, 0.015768866636833186, 0.01212265172787365, 0.010195543045741861, 0.0080981643303867125, 0.015434717010282314, 0.03105249657817959, 0.041658678231797128, 0.01792927788367751, 0.034005622759430636, 0.013872302105956278, 0.011751106496454141, 0.00044752338871566184, -0.0034928817205510175, -0.0045300947500033625, -0.014474607581455561, -0.019873593540576637, 0.013099338691637362, 0.003557529801128782, -0.00055481985391318302, 0.026174054904517734, 0.018226750906348028, 0.012980002647112012, 0.014009646968061921, 0.0070240265394204745, 0.0042792387259065218, 0.001243456604261783, -0.00023470112010974157, -0.0051491541463814881, -0.0048376978470603864, -0.0045146590272593049, -0.00072652160025192297, 0.002580708544993063, -0.0012924601573604656, -0.00086613418635478128, 0.0048254575939612439, 0.0019010498471030079, -0.010825050546815495, -0.012127640498762221, 0.0040069775612102069, 0.0073145465954256505, -0.0002245410122707647, -0.017938275211273141, -0.040119178869064735, -0.027651605580711724, -0.025210745865686571, -0.012134299057878599, -0.013546409984319883, -0.034491462964728006, 0.0060966727515196521, 0.012756562600193493, -0.0013472796862549808, -0.13051433949664459], 'derivative': 0, 'value': 0.4898012170246649}]]

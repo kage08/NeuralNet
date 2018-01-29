@@ -1,0 +1,3004 @@
+##########################################
+Eta: 0.01
+Gamma: 100.0
+Accuracy: 0.2773359840954274
+Epoch No: 0
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 1
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 2
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 3
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 4
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 5
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 6
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 7
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 8
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 9
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 10
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 11
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 12
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 13
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 14
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 15
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 16
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 17
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 18
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 19
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 20
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 21
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 22
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 23
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 24
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 25
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 26
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 27
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 28
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 29
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 30
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 31
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 32
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 33
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 34
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 35
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 36
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 37
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 38
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 39
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 40
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 41
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 42
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 43
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 44
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 45
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 46
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 47
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 48
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 49
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 50
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 51
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 52
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 53
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 54
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 55
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 56
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 57
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 58
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 59
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 60
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 61
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 62
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 63
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 64
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 65
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 66
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 67
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 68
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 69
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 70
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.23757455268389663
+0.2773359840954274
+Epoch No: 71
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 72
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 73
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 74
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 75
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 76
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 77
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 78
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.23757455268389663
+0.2773359840954274
+Epoch No: 79
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 80
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 81
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 82
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 83
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 84
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 85
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 86
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 87
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 88
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 89
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 90
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 91
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 92
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 93
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 94
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 95
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 96
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 97
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 98
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 99
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 100
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 101
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 102
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 103
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 104
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 105
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 106
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 107
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 108
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 109
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 110
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 111
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 112
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 113
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 114
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 115
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 116
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 117
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 118
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 119
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 120
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 121
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 122
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 123
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 124
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 125
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 126
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 127
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 128
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 129
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 130
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 131
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 132
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 133
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 134
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 135
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 136
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 137
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 138
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 139
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 140
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 141
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 142
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 143
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 144
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 145
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 146
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 147
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 148
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 149
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 150
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 151
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 152
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 153
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 154
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 155
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 156
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 157
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 158
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 159
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 160
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 161
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 162
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 163
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 164
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 165
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 166
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 167
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 168
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 169
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 170
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 171
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 172
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 173
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 174
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 175
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 176
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 177
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 178
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 179
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 180
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 181
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 182
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 183
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 184
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 185
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 186
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 187
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 188
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 189
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 190
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 191
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 192
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 193
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 194
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 195
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 196
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 197
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 198
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 199
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 200
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 201
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 202
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 203
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 204
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 205
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 206
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 207
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 208
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 209
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 210
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 211
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 212
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 213
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 214
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 215
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 216
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 217
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 218
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 219
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 220
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 221
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 222
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 223
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 224
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 225
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 226
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 227
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 228
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 229
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 230
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 231
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 232
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 233
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 234
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 235
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 236
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 237
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 238
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 239
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 240
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 241
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 242
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 243
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 244
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 245
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 246
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 247
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 248
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 249
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 250
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 251
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 252
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 253
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 254
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 255
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 256
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 257
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 258
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 259
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 260
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 261
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 262
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 263
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 264
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 265
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 266
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 267
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 268
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 269
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 270
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 271
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 272
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 273
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 274
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 275
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 276
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 277
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 278
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 279
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 280
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 281
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 282
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 283
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 284
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 285
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 286
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 287
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 288
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 289
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 290
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 291
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 292
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 293
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 294
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 295
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 296
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.23757455268389663
+0.2773359840954274
+Epoch No: 297
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 298
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 299
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 300
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 301
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 302
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 303
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 304
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 305
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 306
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 307
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 308
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 309
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 310
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 311
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 312
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 313
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 314
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 315
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 316
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 317
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 318
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 319
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 320
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 321
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 322
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 323
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 324
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 325
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 326
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 327
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 328
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 329
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 330
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 331
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 332
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 333
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 334
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 335
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 336
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 337
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 338
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 339
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 340
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 341
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 342
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 343
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 344
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 345
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 346
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 347
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 348
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 349
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 350
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 351
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 352
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 353
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 354
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 355
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 356
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 357
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 358
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 359
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 360
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 361
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 362
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 363
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 364
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 365
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 366
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 367
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 368
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 369
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 370
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 371
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 372
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 373
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 374
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 375
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 376
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 377
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 378
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 379
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 380
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 381
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 382
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 383
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 384
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 385
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 386
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 387
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 388
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 389
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 390
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.23757455268389663
+0.2773359840954274
+Epoch No: 391
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 392
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 393
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 394
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 395
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 396
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 397
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 398
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 399
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 400
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 401
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 402
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 403
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 404
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 405
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 406
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 407
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 408
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 409
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 410
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 411
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 412
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 413
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 414
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 415
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 416
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 417
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 418
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 419
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 420
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 421
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 422
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 423
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 424
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 425
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 426
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 427
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 428
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 429
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 430
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 431
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 432
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 433
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 434
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 435
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 436
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 437
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 438
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 439
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 440
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 441
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 442
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 443
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 444
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 445
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 446
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 447
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 448
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 449
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 450
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 451
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 452
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 453
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 454
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 455
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 456
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 457
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 458
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 459
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 460
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 461
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 462
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 463
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 464
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 465
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 466
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 467
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 468
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 469
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 470
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 471
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 472
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 473
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 474
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 475
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 476
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 477
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 478
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 479
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 480
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 481
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 482
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 483
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 484
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 485
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 486
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 487
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 488
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 489
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 490
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 491
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 492
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 493
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 494
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 495
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 496
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2634194831013916
+0.2773359840954274
+Epoch No: 497
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 498
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
+Epoch No: 499
+Test Data:
+Accuracy: 0.25
+Train Data
+Accuracy: 0.2773359840954274
+0.2773359840954274
