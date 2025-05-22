@@ -1,0 +1,14 @@
+README
+setup.py
+src/neural_network_pkg/__init__.py
+src/neural_network_pkg/extract.py
+src/neural_network_pkg/neural_net.py
+src/neural_network_pkg/neural_net2.py
+src/neural_network_pkg/run.py
+src/neural_network_pkg/xortest.py
+src/neural_network_suite.egg-info/PKG-INFO
+src/neural_network_suite.egg-info/SOURCES.txt
+src/neural_network_suite.egg-info/dependency_links.txt
+src/neural_network_suite.egg-info/requires.txt
+src/neural_network_suite.egg-info/top_level.txt
+tests/test_neural_net.py
