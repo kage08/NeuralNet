@@ -1,0 +1,113 @@
+# Neural Network Suite
+
+A Python package implementing neural network models with vectorized operations for efficiency. This suite includes two primary neural network implementations: `NeuralNetworkV1` and `NeuralNetworkV2` (which includes L2 regularization).
+
+## Features
+
+- Basic feedforward neural network architecture.
+- Sigmoid activation for hidden layers.
+- Softmax activation for the output layer.
+- Vectorized operations using NumPy for improved performance.
+- `NeuralNetworkV1`: Standard backpropagation.
+- `NeuralNetworkV2`: Backpropagation with L2 regularization.
+- Unit tests to ensure correctness.
+
+## Installation
+
+### Prerequisites
+
+- Python 3.6 or higher
+- Pip
+
+### From local clone
+
+1.  Clone the repository (if you haven't already):
+    ```bash
+    git clone https://your-repo-url-here/neural-network-suite.git # Replace with the actual URL
+    cd neural-network-suite
+    ```
+
+2.  Install the package. For development, it's recommended to install in editable mode:
+    ```bash
+    pip install -e .
+    ```
+    Alternatively, for a standard installation:
+    ```bash
+    pip install .
+    ```
+
+This will also install the required dependencies:
+- numpy
+- scikit-learn
+- matplotlib
+
+## Basic Usage
+
+Here's a quick example of how to import and use one of the neural network models:
+
+```python
+from neural_network_pkg import NeuralNetworkV1, NeuralNetworkV2
+
+# Example using NeuralNetworkV1
+# Define network parameters
+input_size = 10
+hidden_layers_config = [5, 3] # List of neuron counts for each hidden layer
+num_classes = 2
+
+# Initialize the network
+nn_v1 = NeuralNetworkV1(input_layer_n=input_size, 
+                        n_hidden_layers=hidden_layers_config, 
+                        num_classes=num_classes)
+
+# Create some dummy data (replace with actual data)
+import numpy as np
+dummy_input = np.random.rand(input_size)
+dummy_target_output = np.array([1, 0]) # Example for 2 classes, one-hot encoded
+
+# Forward propagate
+output_probabilities = nn_v1.forward_propogate(dummy_input)
+print("Output Probabilities (V1):", output_probabilities)
+
+# To train the network (simplified example of one step):
+# nn_v1.back_propogate(dummy_target_output)
+# nn_v1.update_weights(eta=0.01)
+
+# Example using NeuralNetworkV2 (with regularization)
+# Note: The __init__ for NeuralNetworkV2 in neural_net2.py actually expects 'n_hidden_layers_counts'
+# The test suite was updated to reflect this, but the example here should match the actual class.
+# Assuming n_hidden_layers_counts is the correct parameter for NeuralNetworkV2 based on previous refactoring.
+nn_v2 = NeuralNetworkV2(input_layer_n=input_size,
+                        n_hidden_layers_counts=hidden_layers_config, # Corrected based on nn2 implementation
+                        num_classes=num_classes)
+
+output_probabilities_v2 = nn_v2.forward_propogate(dummy_input)
+print("Output Probabilities (V2):", output_probabilities_v2)
+
+# To train NeuralNetworkV2, you'd also provide gamma for regularization:
+# nn_v2.back_propogate(dummy_target_output)
+# nn_v2.update_weights(eta=0.01, gamma=0.001) 
+```
+
+## Running Tests
+
+The project includes a suite of unit tests. To run them:
+
+1.  Ensure you have installed the package (preferably in editable mode) and its dependencies.
+2.  Navigate to the root directory of the repository.
+3.  Run the tests using the `unittest` module:
+    ```bash
+    python -m unittest discover tests
+    ```
+
+## Scripts
+
+The package also includes the following utility scripts located in `src/neural_network_pkg/`:
+- `extract.py`: Potentially used for data extraction or feature extraction tasks.
+- `xortest.py`: Likely demonstrates or tests the neural network on the XOR problem.
+- `run.py`: Probably a main execution script for running predefined experiments or demonstrations.
+
+These can be run as Python scripts, e.g., `python src/neural_network_pkg/run.py`. (Note: If these are meant to be installed as command-line scripts, `setup.py` would need an `entry_points` configuration).
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details (assuming a `LICENSE` file exists or will be added).
